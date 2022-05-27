@@ -1,0 +1,15 @@
+graph
+{
+//best
+v1--v5 [label="39" color=blue];
+v5--v4 [label="23" color=blue];
+v1--v2 [label="42" color=blue];
+v4--v3 [label="69" color=blue];
+//other
+v1--v3 [label="86"];
+v1--v4 [label="73"];
+v2--v3 [label="81"];
+v2--v4 [label="70"];
+v2--v5 [label="66"];
+v3--v5 [label="97"];
+}
