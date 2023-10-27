@@ -1,0 +1,4 @@
+DLL with Mingw
+D:
+cd D:/桌面/数据结构/算术表达式求值演示/测试
+gcc -o function.dll -s -shared function.c -Wl,--subsystem,windows
